@@ -1,0 +1,26 @@
+{
+  "name": "ball-spline",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.100",
+    "icons": "^1.0.0",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
