@@ -31,8 +31,10 @@ export const Main = styled.main`
 
   @media (max-width: 760px) {
     flex-wrap: wrap;
+    padding: 1rem 0m 0;
 
     .text {
+    padding: 0 2rem;
       h1 {
         margin-top: 3rem;
         font-size: 3rem;
@@ -42,7 +44,7 @@ export const Main = styled.main`
 
     div {
       width: 100%;
-      height: 25rem;
+      height: 30rem;
       
     }
   }
