@@ -31,10 +31,10 @@ export const Main = styled.main`
 
   @media (max-width: 760px) {
     flex-wrap: wrap;
-    padding: 1rem 0m 0;
+    padding: 1rem 0 0;
 
     .text {
-    padding: 0 2rem;
+    margin: 0 2rem;
       h1 {
         margin-top: 3rem;
         font-size: 3rem;
