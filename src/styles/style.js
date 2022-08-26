@@ -22,11 +22,13 @@ export const Main = styled.main`
     }
     p {
       font-weight: 400;
+       margin-bottom: 1.5rem;
+      
     }
   }
   div {
     width: 100%;
-    height: 35rem;
+    height: 38rem;
   }
 
   @media (max-width: 760px) {
